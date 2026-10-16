@@ -1,0 +1,18 @@
+# зависимости
+node_modules/
+
+# системные
+.DS_Store
+Thumbs.db
+
+# логи
+*.log
+npm-debug.log*
+
+# редакторы
+.vscode/
+.idea/
+
+# окружение
+.env
+.env.local
