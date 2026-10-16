@@ -1,0 +1,14 @@
+{
+  "name": "cbr-moex-dashboard",
+  "version": "1.0.0",
+  "description": "Дашборд курсов ЦБ РФ и MOEX",
+  "main": "server.mjs",
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "license": "MIT"
+}
